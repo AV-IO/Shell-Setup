@@ -36,3 +36,4 @@
 		set rtp+=~/.fzf
 	# installing zsh config
 		mv ./zshrc ~/.zshrc
+	chsh -s /usr/bin/zsh
